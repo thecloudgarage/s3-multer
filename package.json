@@ -1,0 +1,29 @@
+{
+  "name": "s3-multer",
+  "version": "1.0.0",
+  "description": "upload file to s3 bucket using multer and express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "server.js"
+  },
+  "keywords": [
+    "Nodejs",
+    "Express",
+    "Amazon",
+    "S3",
+    "RestAPI",
+    "Upload",
+    "File",
+    "Multer",
+    "Aws",
+    "SDK"
+  ],
+  "author": "Nermine slimane",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.849.0",
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  }
+}
