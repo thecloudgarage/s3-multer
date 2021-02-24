@@ -1,8 +1,8 @@
 const env = {
-  AWS_ACCESS_KEY: 'AKIAIWQ52GLXYSPXYT3A', // change to yours
-  AWS_SECRET_ACCESS_KEY: 'fYsZnDRBcF9PsBEpRpnuXTgC7n0rGzL41aCD0wzB', // change to yours
-  REGION: 'us-east-2', // change to yours
-  Bucket: 'nermines-bucket', // change to yours
+  AWS_ACCESS_KEY: 'YOUR-ACCESS-KEY', // change to yours
+  AWS_SECRET_ACCESS_KEY: 'YOUR-SECRET-KEY', // change to yours
+  REGION: 'YOUR-TIMEZONE', // change to yours
+  Bucket: 'YOUR-BUCKET-NAME', // change to yours
 };
 
 module.exports = env;
